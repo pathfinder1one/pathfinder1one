@@ -34,6 +34,11 @@
    <img src="https://streak-stats.demolab.com/?user=pathfinder1one&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="pathfinder1one's GitHub Streak" width="49%" />
 </p>
 <p align="center">
+  <a href="https://github.com/pathfinder1one">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pathfinder1one&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+<p align="center">
   <img src="https://trophy.ryglcloud.net/?username=pathfinder1one&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Chirag Tejasvi's GitHub Trophies" />
 </p>
 <p align="center">
@@ -96,11 +101,7 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/pathfinder1one">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pathfinder1one&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+## 🛠️ Top Languages & Tools
 
 ![Top language](https://stats.pphat.top/languages?username=pathfinder1one)
 <br/>

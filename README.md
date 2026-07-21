@@ -21,9 +21,16 @@
 
 
 ## 🧠 My Focus Areas
-• Machine Learning • Deep Learning • Generative AI • Large Language Models (LLMs)
-• Agentic AI • Multi-Agent Systems • Retrieval-Augmented Generation (RAG) • MLOps
-• FastAPI & Backend Development • Open Source
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Agentic AI
+- Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- MLOps
+- FastAPI & Backend Development
+- Open Source
 
 
 ## 📊 GitHub Stats & Trophies

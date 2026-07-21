@@ -40,7 +40,8 @@
       src="https://github-stats-extended.vercel.app/api?username=pathfinder1one&show_icons=true&theme=gruvbox&cache_seconds=1800&random=901&v=6"
       alt="GitHub Stats" />
   </a>
-
+</p>
+<p align="center">
   <a href="https://github.com/pathfinder1one">
     <img height="180em"
       src="https://streak-stats.demolab.com/?user=pathfinder1one&theme=gruvbox&count_private=true&cache_seconds=1800&random=902"

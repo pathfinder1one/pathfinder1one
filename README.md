@@ -39,7 +39,7 @@
     <img height="180em" src="https://github-stats-extended.vercel.app/api?username=pathfinder1one&show_icons=true&theme=gruvbox&cache_seconds=1800&random=901&v=6" alt="pathfinder1one's GitHub Stats" />
   </a>
   <a href="https://github.com/pathfinder1one">
-   <img src="https://streak-stats.demolab.com/?user=pathfinder1one&theme=gruvbox&count_private=true&cache_seconds=1800&random=902" alt="pathfinder1one's GitHub Streak"/>
+   <img src="https://streak-stats.demolab.com/?user=pathfinder1one&theme=gruvbox&count_private=true&cache_seconds=1800&random=902" alt="pathfinder1one's GitHub Streak" width="49%"/>
   </a>
     
 </p>

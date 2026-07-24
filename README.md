@@ -44,7 +44,7 @@
 <p align="center">
   <a href="https://github.com/pathfinder1one">
     <img height="180em"
-      src="https://streak-stats.demolab.com/?user=pathfinder1one&theme=gruvbox&count_private=true&cache_seconds=1800&random=902"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=pathfinder1one&theme=gruvbox&count_private=true&cache_seconds=1800&random=902"
       alt="GitHub Streak" />
   </a>
 </p>

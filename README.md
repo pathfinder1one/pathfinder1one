@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Chirag%20Tejasvi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Agentic%20AI%20and%20ML%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Chirag%20Tejasvi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Agentic%20AI%20and%20ML%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Hello+everyone!+I+am+Chirag+Tejasvi+%F0%9F%91%8B;CSE+(AI+%26+ML)+Student;Agentic+AI+Enthusiast+%26+AI+ML+Developer;Creates+Projects+Which+Create+Actual+Purpose+%F0%9F%9A%80" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Curiosity%20drives%20me.%20Code%20defines%20me.%20AI%20inspires%20me." alt="Typing introduction" />

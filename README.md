@@ -15,7 +15,7 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🌱 AI & ML undergraduate passionate about solving real-world problems with Artificial Intelligence.
+- 🌱 AI & ML undergraduate passionate about solving real-world problems with Artificial Intelligence.chirag
 - 🚀 Building AI-powered products using Machine Learning, LLMs, and Agentic AI.
 - 💻 Love turning ideas into scalable applications through code and innovation.
 - 🤝 Open to collaborating on AI, Open Source, and Hackathon projects.

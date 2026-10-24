@@ -14,15 +14,15 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 🌱 AI & ML undergraduate passionate about solving real-world problems with Artificial Intelligence.
-- 🚀 Building AI-powered products using Machine Learning, LLMs, and Agentic AI.
-- 💻 Love turning ideas into scalable applications through code and innovation.
-- 🤝 Open to collaborating on AI, Open Source, and Hackathon projects.
-- 🎯 Goal: To become an AI/ML Engineer & Researcher building next-generation intelligent systems.
+## About Me
+- AI & ML undergraduate passionate about solving real-world problems with Artificial Intelligence.
+- Building AI-powered products using Machine Learning, LLMs, and Agentic AI.
+- Love turning ideas into scalable applications through code and innovation.
+- Open to collaborating on AI, Open Source, and Hackathon projects.
+- Goal: To become an AI/ML Engineer & Researcher building next-generation intelligent systems.
 
 
-## 🧠 My Focus Areas
+## My Focus Areas
 - Machine Learning
 - Deep Learning
 - Generative AI
@@ -35,7 +35,7 @@
 - Open Source
 
 
-## 📊 GitHub Stats & Trophies
+## GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/pathfinder1one">
     <img height="180em"
@@ -66,7 +66,7 @@
 </div>
 
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -118,12 +118,12 @@
 
 </p>
 
-## 🛠️ Top Languages & Tools
+## Top Languages & Tools
 
 ![Top language](https://stats.pphat.top/languages?username=pathfinder1one)
 <br/>
 
-## 🔗 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/chirag-tejasvi-939581376/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
